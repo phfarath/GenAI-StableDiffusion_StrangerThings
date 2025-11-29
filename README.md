@@ -75,6 +75,7 @@ Output: `vecna_transformation.gif` e pasta `frames_vecna/`
 ---
 
 **Autor:** Pedro Farath
+
 *Projeto desenvolvido para estudo comparativo entre Ficção Científica e Engenharia de IA.*
 
 #StrangerThings #GenerativeAI #Python #PyTorch #StableDiffusion
